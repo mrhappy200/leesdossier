@@ -1,0 +1,4 @@
+baseURL = 'http://berntsen.tk/'
+languageCode = 'en-us'
+title = 'Ronan Berntsen Leesdossier'
+theme = ["hugo-theme-stack"]
